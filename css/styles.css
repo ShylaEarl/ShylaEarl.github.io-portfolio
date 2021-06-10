@@ -128,7 +128,7 @@ h6, .h6 {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 30px;
+  width: 50px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
@@ -139,12 +139,12 @@ h6, .h6 {
 }
 
 .fa-linkedin {
-  background: #007bb5;;
+  /* background: #007bb5; */
   color: white;
 }
 
 .fa-github {
-  background: black;
+  /* background: black; */
   color: white;
 }
 
